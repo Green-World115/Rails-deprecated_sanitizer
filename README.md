@@ -9,9 +9,3 @@ To downgrade add `gem 'rails-deprecated_sanitizer'` to your Gemfile.
 
 See the Rails 4.2 upgrade guide for more information.
 
-You can read more about the new sanitization implementation here: [rails-html-sanitizer](https://github.com/rails/rails-html-sanitizer).
-
-# Reporting XSS Security Issues
-
-The code provided here deals with XSS attacks and is therefore a security concern.
-So if you find a security issue please follow the [regular security reporting guidelines](http://rubyonrails.org/security/).
